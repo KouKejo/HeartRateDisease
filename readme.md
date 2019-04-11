@@ -1,5 +1,5 @@
 # Heart Rate Disease
-The goal of this repository is to know the presence of heart disease in the patient based on (https://www.kaggle.com/ronitf/heart-disease-uci)
+The goal of this repository is to know the presence of heart disease in the patient (https://www.kaggle.com/ronitf/heart-disease-uci)
 
 ## Team Member
 1. Karen Angelia
