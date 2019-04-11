@@ -1,11 +1,6 @@
 # Heart Rate Disease
 The goal of this repository is to know the presence of heart disease in the patient (https://www.kaggle.com/ronitf/heart-disease-uci)
 
-## Team Member
-1. Keren Angelia Raintung
-2. Kevin Jonathan
-3. Nadya Natasha Alimin
-
 ## Dependency
 - [R-3.5.2](https://www.rstudio.com/)
 
@@ -23,3 +18,6 @@ The goal of this repository is to know the presence of heart disease in the pati
 ## Suggestion
 
 ## Disclaimer 
+The data is from https://www.kaggle.com/ronitf/heart-disease-uci and only used for academic purposes. 
+
+This Shiny application is made by Karen Angelia Raintung, Kevin Jonathan, and Nadya Natasha Alimin to fulfill the assignments for the Research Operation courses of Informatics major at the Pelita Harapan University 2018/2019 Even semester.
