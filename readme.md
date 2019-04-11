@@ -7,7 +7,7 @@ The goal of this repository is to know the presence of heart disease in the pati
 3. Nadya Natasha Alimin
 
 ## Requirements
-- [RStudio](https://www.rstudio.com/)
+- [R](https://www.rstudio.com/)
 - [Shiny](https://shiny.rstudio.com/)
 
 ## Installment/running instruction
