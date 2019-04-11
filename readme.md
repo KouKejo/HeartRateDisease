@@ -8,6 +8,7 @@ The goal of this repository is to know the presence of heart disease in the pati
 
 ## Requirements
 - [RStudio](https://www.rstudio.com/)
+- [Shiny](https://shiny.rstudio.com/)
 
 ## Installment/running instruction
 - Install the library needed in RStudio, in this case we use `library(rpart)` and `library(rpart.plot)`. Type `install.packages("rpart")` to install in Console.
