@@ -16,7 +16,28 @@ The goal of this repository is to know the presence of heart disease in the pati
 - Change directory file="C:/.../heart.csv" to get data address from the repository
 
 ## Explanation
-....
+
+### Data Proccessed
+
+From the data we have, we proccessed using Regression Tree. There are 2 reasons why we choose using Regression Tree. First, in `csv` data type already have the `target` part as references with other parameters, which will be easier to make classification based on existing data. In additional, because there is classification, the making of decision tree for determine the results of predictions that similar with the original data.
+
+![Regression Tree](https://github.com/nadyaalimin/HeartRateDisease/blob/master/HD_RT.png)<br>
+
+### Testing
+
+There are `data training` and `data testing` for testing 
+
+### Server.R
+
+This part of the code is the proccess of all input turns into output to displays on `ui`.
+
+Here are the code snippet of Server.R:
+
+### ui.R
+
+This part of the code is works as the connector between user and the program; all the inputs given by the user on `ui` will be proccessed on `server`.
+
+Here are the code snippet of ui.R:
 
 ## Shiny
 //ScreenShoot
