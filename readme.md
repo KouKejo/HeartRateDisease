@@ -4,7 +4,7 @@ The goal of this repository is to know the presence of heart disease in the pati
 ## Dependency
 - [R-3.5.2](https://www.rstudio.com/)
 - Ms. Excel
-- [Google Chrome] / Other Browsers (https://www.google.com/intl/id_ALL/chrome/)
+- [Google Chrome](https://www.google.com/intl/id_ALL/chrome/) / Other Browsers 
 
 ## Installment/running instruction
 - Install some libraries needed:
