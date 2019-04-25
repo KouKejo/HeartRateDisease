@@ -1,76 +1,77 @@
 # Testing Accuracy
 
-This file will explain about the comparasion of round between 0.1 until 0.9. 
+This file will explain about the comparasion of round between 0.1 until 0.9. The value of accuracy is in rounding
 
 ## round = 0.1
 
 Accuracy = 0.597
 
-![Plot]
+![Plot](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Plot0.1.png)
 
-![Matrix}
+![Matrix](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Mat0.1.png)
 
 ## round = 0.2
 
 Accuracy = 0.451
 
-![Plot]
+![Plot](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Plot0.2.png)
 
-![Matrix}
+![Matrix](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Mat0.2.png)
 
 ## round = 0.3
 
 Accuracy = 0.693
 
-![Plot]
+![Plot](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Plot0.3.png)
 
-![Matrix}
+![Matrix](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Mat0.3.png)
 
 ## round = 0.4
 
 Accuracy = 0.731
 
-![Plot]
+![Plot](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Plot0.4.png)
 
-![Matrix}
+![Matrix](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Mat0.4.png)
 
 ## round = 0.5
 
 Accuracy = 0.781
 
-![Plot]
+![Plot](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Plot0.5.png)
 
-![Matrix}
+![Matrix](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Mat0.5.png)
 
 ## round = 0.6
 
 Accuracy = 0.752
 
-![Plot]
+![Plot](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Plot0.6.png)
 
-![Matrix}
+![Matrix](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Mat0.6.png)
 
 ## round = 0.7
 
 Accuracy = 0.747
 
-![Plot]
+![Plot](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Plot0.7.png)
 
-![Matrix}
+![Matrix](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Mat0.7.png)
 
 ## round = 0.8
 
 Accuracy = 0.721
 
-![Plot]
+![Plot](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Plot0.8.png)
 
-![Matrix}
+![Matrix](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Mat0.8.png)
 
 ## round = 0.9
 
 Accuracy = 0.767
 
-![Plot]
+![Plot](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Plot0.9.png)
 
-![Matrix}
+![Matrix](https://github.com/nadyaalimin/HeartRateDisease/blob/master/TestingAccuracy/Mat0.9.png)
 
+We can see the result from Plots and Matrix above. That is why we use accuracy `round=0.5`.
