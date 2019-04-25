@@ -58,4 +58,4 @@ The data is from https://www.kaggle.com/ronitf/heart-disease-uci and only used f
 This Shiny application is made by Keren Angelia Raintung, Kevin Jonathan, and Nadya Natasha Alimin to fulfill the assignments for the Research Operation courses of Informatics major at the Pelita Harapan University Main Campus 2018/2019 Even semester.
 
 ## References
-1. [Shiny Tutorial](https://shiny.rstudio.com/tutorial/written-tutorial/lesson3/)
+- [Shiny Tutorial](https://shiny.rstudio.com/tutorial/written-tutorial/lesson3/)
