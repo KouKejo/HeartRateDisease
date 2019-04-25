@@ -43,6 +43,9 @@ This part of the code is works as the connector between user and the program; al
 Here are the code snippet of UI:
 ![SnipOfUI](https://github.com/nadyaalimin/HeartRateDisease/blob/master/ui.R.png)
 
+## Shiny
+![Shiny](https://github.com/nadyaalimin/HeartRateDisease/blob/master/ezgif.com-video-to-gif.gif)
+
 ## Suggestion
 1. Add SUBMIT BUTTON, so the result won't be changed while the user haven't submitted the data
 2. Add Data Log / History Log and User ID (username, password, etc) to save the user's previous result.
