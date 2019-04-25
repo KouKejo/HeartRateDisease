@@ -46,7 +46,7 @@ Here are the code snippet of ui.R:
 ## Suggestion
 1. Add SUBMIT BUTTON, so the result won't be changed while the user haven't submitted the data
 2. Add Data Log / History Log and User ID (username, password, etc) to save the user's previous result.
-3. Adding more real data variants, so the accuration of data trainning and testing be more accurate.
+3. Adding more real data variants, so the accuration of data training and testing are more accurate.
 
 ## Disclaimer 
 The data is from https://www.kaggle.com/ronitf/heart-disease-uci and only used for academic purposes. 
