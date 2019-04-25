@@ -27,7 +27,7 @@ In this Regression Tree, we used `round = 0.5` to get the best `accuracy` which 
 
 ### Testing
 
-There are `data training` and `data testing` for testing 
+There are `data training` and `data testing` for testing. The data is split into half to be trained and tested. The result of this splitting is saved as `data model`. Then the data is pruned to get the best result with least data error using `complexity parameter`
 
 ### Server.R
 
@@ -54,4 +54,4 @@ Here are the code snippet of ui.R:
 ## Disclaimer 
 The data is from https://www.kaggle.com/ronitf/heart-disease-uci and only used for academic purposes. 
 
-This Shiny application is made by Keren Angelia Raintung, Kevin Jonathan, and Nadya Natasha Alimin to fulfill the assignments for the Research Operation courses of Informatics major at the Pelita Harapan University 2018/2019 Even semester.
+This Shiny application is made by Keren Angelia Raintung, Kevin Jonathan, and Nadya Natasha Alimin to fulfill the assignments for the Research Operation courses of Informatics major at the Pelita Harapan University Main Campus 2018/2019 Even semester.
