@@ -29,26 +29,30 @@ In this Regression Tree, we used `round = 0.5` to get the best `accuracy` which 
 
 There are `data training` and `data testing` for testing. The data is split into half to be trained and tested. The result of this splitting is saved as `data model`. Then the data is pruned to get the best result with least data error using `complexity parameter`
 
-### Server.R
+### Server
 
-This part of the code is the proccess of all input turns into output to displays on `ui`.
+This part of the code is the proccess of all input turns into output to displays on `UI`.
 
-Here are the code snippet of Server.R:
+Here are the code snippet of Server:
 ![SnipOfServer](https://github.com/nadyaalimin/HeartRateDisease/blob/master/server.R.png)
 
-### ui.R
+### UI
 
-This part of the code is works as the connector between user and the program; all the inputs given by the user on `ui` will be proccessed on `server`.
+This part of the code is works as the connector between user and the program; all the inputs given by the user on `UI` will be proccessed on `server`.
 
-Here are the code snippet of ui.R:
+Here are the code snippet of UI:
 ![SnipOfUI](https://github.com/nadyaalimin/HeartRateDisease/blob/master/ui.R.png)
 
 ## Suggestion
 1. Add SUBMIT BUTTON, so the result won't be changed while the user haven't submitted the data
 2. Add Data Log / History Log and User ID (username, password, etc) to save the user's previous result.
 3. Adding more real data variants, so the accuration of data training and testing are more accurate.
+4. Add a slider to change the plot according to data splitting.
 
 ## Disclaimer 
 The data is from https://www.kaggle.com/ronitf/heart-disease-uci and only used for academic purposes. 
 
 This Shiny application is made by Keren Angelia Raintung, Kevin Jonathan, and Nadya Natasha Alimin to fulfill the assignments for the Research Operation courses of Informatics major at the Pelita Harapan University Main Campus 2018/2019 Even semester.
+
+## References
+1. [Shiny Tutorial](https://shiny.rstudio.com/tutorial/written-tutorial/lesson3/)
