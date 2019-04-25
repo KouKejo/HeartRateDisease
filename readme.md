@@ -17,7 +17,7 @@ The goal of this repository is to know the presence of heart disease in the pati
 
 ## Explanation
 
-### Data Proccessed
+### Predictions
 
 From the data we have, we proccessed using Regression Tree. There are 2 reasons why we choose using Regression Tree. First, in `csv` data type already have the `target` part as references with other parameters, which will be easier to make classification based on existing data. In additional, because there is classification, the making of decision tree for determine the results of predictions that similar with the original data.
 
